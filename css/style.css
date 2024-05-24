@@ -1,0 +1,162 @@
+.precios {
+    color: #28A745;
+    width: 74pt;
+    height: 24pt;
+    font-family: "Roboto", sans-serif;
+    font-size: 20pt;
+    opacity: 100%;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.text-body-secondary {
+    font-size: 16px;
+    color: #707070;
+    opacity: 100%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-weight: lighter;
+    text-align: left;
+}
+
+.logo-white {
+    display: flex;
+    justify-content: flex-start;
+    width: 86pt;
+    height: 25pt;
+    opacity: 100%;
+}
+
+.ubicacion {
+    font-size: 13px;
+    color: #707070;
+    opacity: 100%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+}
+
+.card-text {
+    font-size: 16px;
+    color: #707070;
+    opacity: 100%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+}
+
+.card-title {
+    color: #212529;
+    opacity: 100%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.navbar-nav {
+    flex-direction: row;
+    margin-left: auto;
+    font-weight: lighter;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+}
+
+.text-light {
+    color: white;
+    opacity: 100%;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    margin: 3px;
+    font-weight: lighter;
+}
+
+h3 {
+    color: #FFFFFF;
+    opacity: 100%;
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+form {
+    background-color: #28A745;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 20px;
+}
+
+.form-control {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-weight: lighter;
+    text-align: left;
+    font-size: 16px;
+}
+
+.boton {
+    border-radius: 10px;
+    border-color: #DDDDDD;
+    background-color: #F8F9FA;
+    color: #212529;
+    text-align: center;
+    opacity: 100%;
+    font-size: 16pt;
+    padding: 4pt 4pt 4pt 4pt;
+    width: 112.71pt;
+    height: 40pt;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;  
+}
+
+.logo-black {
+    width: 82pt;
+    height: 24pt;
+    margin-top: 20px;
+    background-color: white;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding-top: 10px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 16pt;
+    color: #707070;
+    opacity: 100%;
+    margin-bottom: 22px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.card-footer {
+    text-align: right;
+    padding: 10px;
+}
